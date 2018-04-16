@@ -29,3 +29,24 @@ Metacello new
 
 ## Sample
 http://squeak.sakura.ne.jp/etc/DebugReport-Pharo-Sample/
+
+
+## Settings
+```smalltalk
+DRSettings autoOutputMode: false. "default"
+DRSettings autoOutputMode: true.
+
+DRSettings useZipOutputter. "default"
+DRSettings useFileOutputter.
+
+DRSettings outputDirectoryPath: '.'. "default"
+DRSettings outputDirectoryPath: './report'.
+DRSettings outputDirectoryPath: '/Users/kaminami/temp/report'.
+
+DRSettings outputLimit: 0. "default unlimited"
+DRSettings outputLimit: 10.
+```
+
+## Etc
+"output handled context"
+[ 1 zork ] on: Exception do: [:ex | ex outputDebugReport ]
