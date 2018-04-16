@@ -3,7 +3,7 @@ You can generate more helpful debug log from Notifier or Debugger.
 
 ## Supported Smalltalk Version
 
-Pharo Smalltalk 5.0, 6.0
+Pharo Smalltalk 5.0, 6.1
 
 ## Installation
 
