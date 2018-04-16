@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDebugReport",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
