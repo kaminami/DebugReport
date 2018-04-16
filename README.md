@@ -49,6 +49,9 @@ DRSettings outputLimit: 10.
 
 ## Etc
 ```smalltalk
+"output current context"
+thisContext outputDebugReport.
+
 "output handled context"
 [ 1 zork ] on: Exception do: [:ex | ex outputDebugReport ]
 ```
