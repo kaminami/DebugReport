@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfDebugReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
