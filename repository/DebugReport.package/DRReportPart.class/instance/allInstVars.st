@@ -1,0 +1,3 @@
+accessing
+allInstVars
+	^ allInstVars

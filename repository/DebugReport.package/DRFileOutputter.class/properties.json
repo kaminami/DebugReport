@@ -1,0 +1,14 @@
+{
+	"category" : "DebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseDir" ],
+	"name" : "DRFileOutputter",
+	"pools" : [
+		 ],
+	"super" : "DROutputter",
+	"type" : "normal" }

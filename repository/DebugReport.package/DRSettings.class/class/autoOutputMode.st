@@ -1,0 +1,3 @@
+accesing
+autoOutputMode
+	^ 	autoOutputMode == true

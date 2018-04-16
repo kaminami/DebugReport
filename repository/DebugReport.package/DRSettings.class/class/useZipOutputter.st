@@ -1,0 +1,3 @@
+settings
+useZipOutputter
+	outputterClass := DRZipOutputter 

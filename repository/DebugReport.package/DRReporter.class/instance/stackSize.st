@@ -1,0 +1,3 @@
+defaults
+stackSize
+	^ 40

@@ -1,0 +1,3 @@
+accesing
+outputDirectoryPath
+	^ outputDirectoryPath

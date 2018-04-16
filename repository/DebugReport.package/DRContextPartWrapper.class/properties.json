@@ -1,0 +1,16 @@
+{
+	"category" : "DebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index",
+		"context",
+		"contextPart" ],
+	"name" : "DRContextPartWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

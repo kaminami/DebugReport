@@ -1,0 +1,15 @@
+{
+	"category" : "DebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"reportParts",
+		"label" ],
+	"name" : "DRReporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

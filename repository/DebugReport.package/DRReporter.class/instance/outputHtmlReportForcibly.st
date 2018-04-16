@@ -1,0 +1,3 @@
+outputting
+outputHtmlReportForcibly
+	self outputHtmlReportWith: DateAndTime now

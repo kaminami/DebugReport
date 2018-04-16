@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"autoOutputMode" : "minami 10/11/2014 17:55",
+		"autoOutputMode:" : "minami 10/11/2014 17:56",
+		"hasOutputLimit" : "minami 2/10/2016 09:39",
+		"initialize" : "minami 2/10/2016 09:38",
+		"outputDirectoryPath" : "minami 2/8/2016 10:05",
+		"outputDirectoryPath:" : "minami 2/8/2016 10:05",
+		"outputLimit" : "minami 2/10/2016 09:38",
+		"outputLimit:" : "minami 2/10/2016 09:38",
+		"outputterClass" : "minami 2/27/2014 23:24",
+		"useFileOutputter" : "minami 2/27/2014 23:23",
+		"useZipOutputter" : "minami 2/27/2014 23:23" },
+	"instance" : {
+		 } }

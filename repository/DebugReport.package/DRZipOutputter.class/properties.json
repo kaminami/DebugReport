@@ -1,0 +1,16 @@
+{
+	"category" : "DebugReport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zip",
+		"textConverter",
+		"baseDir" ],
+	"name" : "DRZipOutputter",
+	"pools" : [
+		 ],
+	"super" : "DROutputter",
+	"type" : "normal" }

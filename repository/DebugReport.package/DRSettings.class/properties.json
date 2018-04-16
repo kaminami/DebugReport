@@ -1,0 +1,17 @@
+{
+	"category" : "DebugReport",
+	"classinstvars" : [
+		"outputterClass",
+		"autoOutputMode",
+		"outputDirectoryPath",
+		"outputLimit" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DRSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
