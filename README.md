@@ -1,5 +1,6 @@
 # DebugReport
-You can generate more helpful debug log from Notifier or Debugger.
+You can generate more helpful debug log from Spec Debugger.
+
 
 ## Supported Smalltalk Version
 
