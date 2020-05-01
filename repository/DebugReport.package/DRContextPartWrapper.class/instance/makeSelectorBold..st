@@ -6,9 +6,9 @@ makeSelectorBold: aText
 	| string parser i |
 	string := aText asString.
 	string size = 0 ifTrue: [^ aText].
-	i := 0.
-	[(string at: (i := i + 1)) isSeparator] whileTrue.
-	(string at: i) = $[ ifTrue: [aText].  "block, no selector"
-	[(parser := Parser new) parseSelector: string] on: Error do: [^ aText].
-	aText makeBoldFrom: 1 to: (parser endOfLastToken min: string size).
+
+	parser := RBParser parseMethod: string.
+	aText makeBoldFrom: 1 to: (parser selectorAndArgumentNames size min: string size).
 	^ aText
+	
+

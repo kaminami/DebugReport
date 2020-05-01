@@ -1,0 +1,3 @@
+actions
+executeAction
+	self currentContext outputDebugReport
