@@ -1,14 +1,13 @@
 {
-	"category" : "DebugReport",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"baseDir" ],
-	"name" : "DRFileOutputter",
-	"pools" : [
-		 ],
 	"super" : "DROutputter",
-	"type" : "normal" }
+	"category" : "DebugReport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"baseDir"
+	],
+	"name" : "DRFileOutputter",
+	"type" : "normal"
+}

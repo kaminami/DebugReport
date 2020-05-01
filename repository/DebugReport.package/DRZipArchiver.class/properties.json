@@ -7,9 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"zip",
-		"textConverter",
-		"baseDir"
+		"textConverter"
 	],
-	"name" : "DRZipOutputter",
+	"name" : "DRZipArchiver",
 	"type" : "normal"
 }

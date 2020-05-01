@@ -1,16 +1,15 @@
 {
-	"category" : "DebugReport",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugReport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"timeStamp",
 		"reportParts",
-		"label" ],
+		"label"
+	],
 	"name" : "DROutputter",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
