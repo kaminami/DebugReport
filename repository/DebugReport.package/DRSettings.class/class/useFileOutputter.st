@@ -1,3 +1,0 @@
-settings
-useFileOutputter
-	outputterClass := DRFileOutputter 

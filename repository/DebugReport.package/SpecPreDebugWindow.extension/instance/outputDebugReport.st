@@ -1,3 +1,0 @@
-*DebugReport-actions
-outputDebugReport
-	self debugger outputDebugReportForcibly

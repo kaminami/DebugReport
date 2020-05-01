@@ -1,13 +1,12 @@
 {
 	"instance" : {
-		"textConverter:" : "minami 2/20/2007 22:50",
-		"baseDir" : "minami 2/8/2016 17:30",
-		"newFileName" : "minami 2/8/2016 18:28",
 		"write:to:" : "minami 2/20/2007 22:48",
+		"baseDir" : "kaminami 1/8/2020 15:58",
+		"newFileName" : "minami 2/8/2016 18:28",
 		"zip" : "minami 12/22/2006 16:22",
 		"textConverter" : "minami 2/20/2007 22:47",
-		"output" : "minami 2/8/2016 18:33",
-		"createBaseDir" : "minami 2/8/2016 18:08"
+		"output" : "kaminami 1/8/2020 16:32",
+		"textConverter:" : "minami 2/20/2007 22:50"
 	},
 	"class" : { }
 }
