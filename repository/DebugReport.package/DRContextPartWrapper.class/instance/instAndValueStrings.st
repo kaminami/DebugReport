@@ -7,6 +7,6 @@ instAndValueStrings
 			| titleStr |
 			titleStr := [ (self receiver instVarNamed: title) printString ]
 								on: Error
-								do: [ :ex | 'Error in generation of #instAndValueStrings ', ex description ].
+								do: [ :ex | 'Error in generation of #instAndValueStrings, ', ex description ].
 			col add: (title -> titleStr)].
 	^ col

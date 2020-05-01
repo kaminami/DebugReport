@@ -4,11 +4,19 @@
 # system image
 *.image
 
+# system sources
+*.sources
+
 # Pharo Smalltalk Debug log file
 PharoDebug.log
 
 # Squeak Smalltalk Debug log file
 SqueakDebug.log
+
+# Pharo files
+/pharo-local
+meta-inf.ston
+pharo.version
 
 # Monticello package cache
 /package-cache
@@ -16,3 +24,6 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+
+# MacOS
+.DS_Store
