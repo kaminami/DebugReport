@@ -1,0 +1,3 @@
+*DebugReport
+outputDebugReport
+	self debugger currentContext outputDebugReport

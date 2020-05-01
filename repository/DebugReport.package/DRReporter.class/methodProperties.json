@@ -1,18 +1,15 @@
 {
 	"instance" : {
-		"stackSize" : "minami 9/23/2006 13:58",
-		"on:" : "minami 11/14/2016 18:30",
-		"outputHtmlReportWith:" : "minami 2/5/2016 10:13",
 		"context:label:" : "minami 9/23/2006 14:10",
-		"expandedStackSize" : "minami 11/14/2016 18:29",
+		"executeFullStack:" : "kaminami 1/8/2020 14:24",
+		"outputEnabled" : "kaminami 1/8/2020 15:53",
+		"outputHtmlReportWith:" : "minami 2/5/2016 10:13",
 		"outputHtmlReportForcibly" : "minami 2/10/2016 11:52",
-		"outputEnabled" : "minami 2/10/2016 12:33",
 		"outputHtmlReport" : "minami 2/10/2016 09:55",
-		"zipArchivedHtmlReport" : "kaminami 12/6/2018 18:35",
-		"executeFullStack:" : "minami 11/14/2016 18:31"
+		"stackSize" : "minami 9/23/2006 13:58",
+		"zipArchivedHtmlReport" : "kaminami 12/6/2018 18:35"
 	},
 	"class" : {
-		"context:label:" : "minami 9/23/2006 13:57",
-		"on:" : "minami 9/13/2006 10:28"
+		"context:label:" : "minami 9/23/2006 13:57"
 	}
 }
