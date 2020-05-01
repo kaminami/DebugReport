@@ -1,5 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"outputDebugReport" : "kaminami 9/20/2017 00:26" } }
+		"outputDebugReport" : "kaminami 9/20/2017 00:26",
+		"zipArchivedDebugReport" : "kaminami 12/6/2018 18:39"
+	},
+	"class" : { }
+}

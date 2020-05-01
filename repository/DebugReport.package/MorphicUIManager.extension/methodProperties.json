@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"openDebuggerOn:context:label:contents:fullView:" : "kaminami 6/29/2017 17:25" } }
+		"openDebuggerOn:context:label:contents:fullView:" : "kaminami 6/29/2017 17:25"
+	},
+	"class" : { }
+}

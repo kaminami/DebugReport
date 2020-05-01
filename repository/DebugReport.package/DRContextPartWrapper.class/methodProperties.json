@@ -1,24 +1,27 @@
 {
-	"class" : {
-		"on:index:" : "minami 9/9/2006 17:15" },
 	"instance" : {
-		"allInstVars" : "minami 2/26/2014 20:57",
-		"allTempVars" : "mu 11/21/2012 14:31",
-		"asReportPart" : "minami 8/25/2010 03:43",
-		"contextPart" : "minami 9/9/2006 17:14",
-		"contextPart:" : "minami 9/9/2006 17:14",
-		"index" : "minami 9/7/2006 19:49",
-		"index:" : "minami 9/7/2006 19:49",
-		"instAndValueStrings" : "minami 3/17/2016 14:39",
-		"instAndValues" : "minami 9/8/2006 10:20",
-		"instNames" : "minami 9/7/2006 19:29",
-		"makeSelectorBold:" : "minami 2/27/2014 23:16",
-		"pcRange" : "minami 10/11/2014 17:19",
-		"receiver" : "minami 9/9/2006 17:15",
-		"receiverString" : "minami 9/7/2006 23:12",
-		"sizeLimit" : "minami 9/16/2006 18:54",
+		"allInstVars" : "kaminami 12/7/2018 11:50",
 		"sourceText" : "minami 2/27/2014 23:08",
-		"tempAndValueStrings" : "minami 3/17/2016 14:35",
+		"instAndValues" : "minami 9/8/2006 10:20",
 		"tempAndValues" : "minami 9/9/2006 17:15",
 		"tempNames" : "minami 9/9/2006 17:15",
-		"title" : "minami 9/9/2006 17:15" } }
+		"makeSelectorBold:" : "minami 2/27/2014 23:16",
+		"allTempVars" : "kaminami 12/7/2018 11:50",
+		"tempAndValueStrings" : "kaminami 12/7/2018 11:50",
+		"index" : "minami 9/7/2006 19:49",
+		"receiverString" : "minami 9/7/2006 23:12",
+		"contextPart:" : "minami 9/9/2006 17:14",
+		"instNames" : "minami 9/7/2006 19:29",
+		"receiver" : "minami 9/9/2006 17:15",
+		"contextPart" : "minami 9/9/2006 17:14",
+		"title" : "minami 9/9/2006 17:15",
+		"pcRange" : "minami 10/11/2014 17:19",
+		"instAndValueStrings" : "kaminami 12/7/2018 11:50",
+		"sizeLimit" : "minami 9/16/2006 18:54",
+		"index:" : "minami 9/7/2006 19:49",
+		"asReportPart" : "minami 8/25/2010 03:43"
+	},
+	"class" : {
+		"on:index:" : "minami 9/9/2006 17:15"
+	}
+}

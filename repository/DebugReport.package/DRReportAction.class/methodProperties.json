@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"actionType" : "minami 3/1/2014 00:01" },
 	"instance" : {
-		"defaultLabel" : "minami 2/10/2016 11:57",
+		"initialize" : "minami 3/1/2014 00:02",
 		"defaultOrder" : "minami 3/1/2014 00:01",
 		"executeAction" : "minami 2/10/2016 11:56",
-		"id" : "minami 2/10/2016 11:57",
-		"initialize" : "minami 3/1/2014 00:02" } }
+		"defaultLabel" : "minami 2/10/2016 11:57",
+		"id" : "minami 2/10/2016 11:57"
+	},
+	"class" : {
+		"actionType" : "minami 3/1/2014 00:01"
+	}
+}

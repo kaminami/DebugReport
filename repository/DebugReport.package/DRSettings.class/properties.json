@@ -1,17 +1,16 @@
 {
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "DebugReport",
 	"classinstvars" : [
 		"outputterClass",
 		"autoOutputMode",
 		"outputDirectoryPath",
-		"outputLimit" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"outputLimit"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "DRSettings",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

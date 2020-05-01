@@ -1,10 +1,10 @@
 {
-	"category" : "DebugReport",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DebugReport",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"index",
 		"ctxtTitle",
@@ -14,9 +14,8 @@
 		"instVars",
 		"receiver",
 		"sourceText",
-		"pcRange" ],
+		"pcRange"
+	],
 	"name" : "DRReportPart",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
