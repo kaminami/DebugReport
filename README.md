@@ -30,7 +30,7 @@ Local Reporsitory
 "edit to match the path to your chosen package directory"
 pathToPackageDirectory := './repository/' asFileReference asAbsolute fullName.
 Metacello new
-  baseline: 'Kobati';
+  baseline: 'DebugReport';
   repository: 'filetree://', pathToPackageDirectory;
   load.
 ```
