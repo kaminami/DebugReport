@@ -1,7 +1,5 @@
 accessing
-pcRange
-	| pc  |
-	pc := self contextPart pc - ((self index = 1) ifTrue: [1] ifFalse: [2]).
-	
+pcRange	
 	^ self contextPart debuggerMap 
-			rangeForPC: self contextPart  pc
+			rangeForPC: self contextPart pc
+			contextIsActiveContext: true
