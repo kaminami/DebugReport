@@ -4,7 +4,7 @@ You can generate more helpful debug log from Spec Debugger.
 
 ## Supported Smalltalk Version
 
-Pharo Smalltalk 5.0, 6.1
+Pharo Smalltalk 5, 6, 7, 8
 
 ## Installation
 
