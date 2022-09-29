@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "StDebuggerCommand",
+	"category" : "DebugReport-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DROutputByDebugReportCommand",
+	"type" : "normal"
+}
