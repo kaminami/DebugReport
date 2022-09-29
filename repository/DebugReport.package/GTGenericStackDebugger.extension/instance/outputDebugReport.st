@@ -1,3 +1,0 @@
-*DebugReport
-outputDebugReport
-	self currentContext outputDebugReport

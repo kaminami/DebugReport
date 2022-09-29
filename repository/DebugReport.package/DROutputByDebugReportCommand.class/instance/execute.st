@@ -1,0 +1,3 @@
+hooks
+execute
+	self debugger interruptedContext outputDebugReport
