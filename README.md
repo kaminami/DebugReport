@@ -4,11 +4,17 @@ You can generate more helpful debug log from Spec Debugger.
 
 ## Supported Smalltalk Version
 
-Pharo Smalltalk 5, 6, 7, 8, 9
+Pharo Smalltalk 5, 6, 7, 8, 9, 10
 
 ## Installation
 
 ```smalltalk
+"Pharo 10.x"
+Metacello new
+    baseline: 'DebugReport';
+    repository: 'github://kaminami/DebugReport:v6.0/repository';
+    load.
+    
 "Pharo 9.x"
 Metacello new
     baseline: 'DebugReport';
