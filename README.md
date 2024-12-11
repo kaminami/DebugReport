@@ -4,7 +4,7 @@ You can generate more helpful debug log from Spec Debugger.
 
 ## Supported Smalltalk Version
 
-Pharo Smalltalk 5, 6, 7, 8, 9, 10
+Pharo Smalltalk 5, 6, 7, 8, 9, 10, 11, 12
 
 ## Installation
 
@@ -51,6 +51,12 @@ Metacello new
   baseline: 'DebugReport';
   repository: 'filetree://', pathToPackageDirectory;
   load.
+```
+
+## Usage
+
+```smalltalk
+[ 1/0 ] on: Error do: [ :ex | ex outputDebugReport ].
 ```
 
 ## Output Example
