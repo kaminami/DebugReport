@@ -1,2 +1,1 @@
-SystemOrganization addCategory: #DebugReport!
-SystemOrganization addCategory: #'DebugReport-UI'!
+self packageOrganizer ensurePackage: #DebugReport withTags: #(#UI)!
