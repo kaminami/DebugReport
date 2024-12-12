@@ -9,6 +9,12 @@ Pharo Smalltalk 5, 6, 7, 8, 9, 10, 11, 12
 ## Installation
 
 ```smalltalk
+"Pharo 12.x"
+Metacello new
+    baseline: 'DebugReport';
+    repository: 'github://kaminami/DebugReport:v7.0/repository';
+    load.
+
 "Pharo 10.x"
 Metacello new
     baseline: 'DebugReport';
